@@ -7,3 +7,5 @@ This application searches through a Wikipedia page and returns any passages wher
 - scrape-page(url) - takes in the wikipedia url string and returns abbreviated uncited passages and calls a private function to get the total number of cites needed.
 
 ## PR Link
+
+[https://github.com/brannonstarnes/web-scraper/pull/1](https://github.com/brannonstarnes/web-scraper/pull/1)
